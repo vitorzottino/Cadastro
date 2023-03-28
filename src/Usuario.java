@@ -25,7 +25,6 @@ public class Usuario implements Comparable<Usuario>{
 	}
 	
 	
-	
 	public int getId() {
 		return id;
 	}
